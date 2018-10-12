@@ -15,6 +15,6 @@ Me too. I'm CEO,CTO,CFO,COO,CNMO,CNNNO,Yanggang
 If you are a keyboard man, please [join us](http://shang.qq.com/wpa/qunwpa?idkey=0bf14e414749556fb3576f731afe0cf7ec255efcb5d0c4a4ad298514bc54ad50).
 
 ### run it(windows)
-> cd $PROJECTDIR$
-> set FLASK_APP=app/__init__.py
-> flask run
+> cd $PROJECTDIR$  
+> set FLASK_APP=app/__init__.py  
+> flask run  
