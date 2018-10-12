@@ -12,6 +12,8 @@ Hello everyone, I'm CEO, LSilent(liushuai).
 
 Me too. I'm CEO,CTO,CFO,COO,CNMO,CNNNO,Yanggang
 
+Me too. I'm CEO,CTO,CFO,COO,CNMO,CNNNO,cousin
+
 If you are a keyboard man, please [join us](http://shang.qq.com/wpa/qunwpa?idkey=0bf14e414749556fb3576f731afe0cf7ec255efcb5d0c4a4ad298514bc54ad50).
 
 ### run it(windows)
