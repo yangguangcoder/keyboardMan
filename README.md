@@ -1,2 +1,4 @@
 # keyboardMan
-The more people, the happier
+The more people, the happier.
+
+I'm coming now.
